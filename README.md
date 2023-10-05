@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAUSHAN KUMAR THAKUR</h1>
 <h3 align="center">A passionate Techie from India.</h3>
 
-- 🔭 I’m currently working on **A basic full stack Website which'll store notes of user.**
+- 🔭 I’m currently working on **A Social Media Website using MERN.**
 
 - 🌱 I’m currently learning **DSA & MERN**
 
