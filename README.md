@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Social Media Website using MERN.**
 
-- 🌱 I’m currently learning **DSA & MERN**
+- 🌱 I’m currently practicing **DSA & MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rnkp755](https://github.com/rnkp755)
 
