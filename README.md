@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm RAUSHAN KUMAR THAKUR</h1>
+<h1 align="center">Hi 👋, I'm Raushan Kumar Thakur</h1>
 <h3 align="center">A passionate Techie from India.</h3>
 
-- 🔭 I’m currently working on **A Social Media Website using MERN.**
+- 🔭 I’m currently working on **some impactful projects that can contribute to society.**
 
 - 🌱 I’m currently practicing **DSA & MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rnkp755](https://github.com/rnkp755)
 
-- 💬 Ask me about **C++, OOP, HTML, CSS, JS**
+- 💬 Ask me about **C++, OOP, DS, JS, TS, SQL, Go, Python, Java, OS, CN**
 
-- 📫 How to reach me **rnkp755@gmail.com**
+- 📫 How to reach me **contact@raushan.info**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
