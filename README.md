@@ -65,10 +65,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=inspire&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://codolio.com/profile/hackerraushan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Code stats&logo=leetcode&label=&color=F57C06&logoColor=white&labelColor=&style=flat" height="35" alt="codolio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Code%20stats&logo=leetcode&label=&color=F57C06&logoColor=white&labelColor=&style=flat" height="35" alt="codolio logo"  />
   </a>
   <a href="https://raushan.info" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Know more&logo=searxng&label=&color=01311F&logoColor=white&labelColor=&style=flat" height="35" alt="website"  />
+    <img src="https://img.shields.io/static/v1?message=Know%20more&logo=searxng&label=&color=01311F&logoColor=white&labelColor=&style=flat" height="35" alt="website"  />
   </a>
 </div>
 
