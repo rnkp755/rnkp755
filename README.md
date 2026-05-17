@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Raushan and I'm a Software Engineer, from Bihar.</h2>
+<h2 align="left">Hi 👋! My name is Raushan and I'm a Software Engineer, at Hackerrank.</h2>
 
 ###
 
